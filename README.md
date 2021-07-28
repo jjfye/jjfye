@@ -1,4 +1,4 @@
-### Here are some things about me! 👋
+### Hey, I'm Jason! 👋😃
 
 - 🔭 I’m currently working on gathering resources for a larger skillset
 - 🌱 I’m currently learning C#
